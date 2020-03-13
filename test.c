@@ -10,7 +10,3 @@ master()
    //change in master 
 }
 
-test1()
-{
-  // chang in test1
-}
